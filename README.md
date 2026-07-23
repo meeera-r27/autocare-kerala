@@ -57,14 +57,6 @@ Simply open `index.html` in your browser or use the VS Code Live Server extensio
 autocare-kerala/
 │
 ├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── fonts/
-└── README.md
-```
 
 ---
 
